@@ -1,18 +1,18 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
-  "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "site_name": "Sleepless Monk",
+  "header_title": "Visionary Immersive Audiovisual Poetry",
+  "first_letter_only": false,
+  "email": "letothetyrant@gmail.com",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
+      "handle": "Ethereios",
+      "link_text": "https://twitter.com/Ethereios"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
-      "link_text": "ig"
+      "handle": "mindful_nomads",
+      "link_text": "https://www.instagram.com/mindful_nomads/"
     },
     {
       "channel": "github",
